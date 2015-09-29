@@ -1,0 +1,24 @@
+{
+  "name": "dephotos_test",
+  "version": "1.0.0",
+  "description": "Hello, there",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "normalize.scss": "^0.1.0",
+    "restify": "^4.0.3",
+    "tingodb": "^0.4.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sprite-generator": "^0.2.3"
+  }
+}

@@ -1,0 +1,20 @@
+/* SETTINGS
+========================================================================== */
+@import 'settings/fonts.scss';
+@import 'settings/variables.scss';
+@import 'settings/mixin.scss';
+
+
+/* BASE 
+========================================================================== */
+@import 'base/base.scss';
+
+/* LAYOUT
+========================================================================== */
+@import 'layout/main.scss';
+
+
+/* MODULES - Многократно используемые элементы сайта.
+========================================================================== */
+@import 'modules/article.scss';
+@import 'modules/comments.scss';
